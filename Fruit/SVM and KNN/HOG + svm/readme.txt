@@ -1,0 +1,1 @@
+sử dụng decriptor là HOG kết hợp phương pháp training là svm

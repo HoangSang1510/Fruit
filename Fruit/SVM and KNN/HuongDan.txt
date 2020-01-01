@@ -1,0 +1,5 @@
+Hướng dẫn:
+B1: sử dụng file FeatureExtract.py để chuyển ảnh thành các vector đặc trưng ( sử dụng 3 decriptor là Humoment, heralick, color histogram)
+    sau đó lưu lại 4 file .h5 và 1 file scaler.pickle
+B2: sử dụng file KNN.py hoặc SVM.py để training và lưu lại model
+B3: sử dụng file Test.py để gọi model và test model với các ảnh trong thư mục testanh  
